@@ -1,0 +1,47 @@
+#submit {
+  margin: 15px;
+}
+
+* { 
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  
+}
+
+body {
+  background-image: url("https://i.imgur.com/aIcK3nD.jpg");
+}
+
+#username { 
+  width: 250px;
+}
+
+#email { 
+  width: 250px;
+}
+
+#firstPassword { 
+  width: 250px;
+}
+
+#secondPassword { 
+  width: 250px;
+}
+
+#title {
+  font-size: 30px;
+  color: white;
+}
+
+p { 
+font-weight: bold;
+color: white;
+}
+
+#result {
+  color: white;
+  font-style: italic;
+}
+
